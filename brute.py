@@ -6,9 +6,9 @@ from chain_scanner import eth_scan, bsc_scan, poly_scan
 
 Account_numbers_per_wallet = 1  # 1 Recommended
 
-api_eth = "YOUR ETHERSCAN API KEY"
-api_bsc = "YOUR BSCSCAN API KEY"
-api_poly = "YOUR POLYSCAN API KEY"
+api_eth = "SWMZ4TV5NHYE3RFJPRR5WVQP3CRQJUZJ28"
+api_bsc = "86VH6WEYVHN3KEM1BPK13X66GNS21NSSPR"
+api_poly = "SST9HF8UAC2A3WJYQD5ZVEHHU7R6C4PUKG"
 
 emptyTxt_path = r"C:\Users\Username\Brute_Metamask\empty.txt"   # Your empty.txt PATH
 validTxt_path = r"C:\Users\Username\Brute_Metamask\valid.txt"   # Your valid.txt PATH
